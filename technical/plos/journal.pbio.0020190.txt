@@ -176,9 +176,3 @@
         recombination hotspots in humans may have large effects on the length of local patterns of
         linkage disequilibrium (haplotype blocks) and thus on our ability to map disease alleles by
         their association with other markers.
-      
-      
-        
-      
-    
-  
